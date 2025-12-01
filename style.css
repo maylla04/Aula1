@@ -1,14 +1,12 @@
-body { background:#111; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; }
-h1 {
-    font-size:6rem;
-    font-weight:900;
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    transition: background 0.1s linear;
-  }
+h1{
+    color: blue
+}
 
 img{
     width: 20%;
-
+    
+}
+div{
+    background-color: bisque;
+    width: 90%;
 }
